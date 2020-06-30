@@ -739,7 +739,7 @@ h3, h4 {
     .articles-snippet:nth-of-type(n+4), .articles-snippet--small {
         vertical-align: top;
         display: inline-block;
-        width: 33.33%;
+        width: 32.33%;
         padding: 0 1.5%
     }
     .articles-snippet:nth-of-type(n+4) h1, .articles-snippet--small h1 {
