@@ -662,6 +662,11 @@ h3, h4 {
         margin: 7.5rem 0 12rem
     }
 }
+.article-header {
+    color: #808080;
+    font-size: 1.5rem;
+    font-style: italic;
+}
 .articles-snippet {
     display: -ms-flexbox;
     display: flex;
